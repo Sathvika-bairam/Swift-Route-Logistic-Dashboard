@@ -19,6 +19,13 @@ The report consists of **4 pages**, each focusing on a different operational dim
 
 ---
 
+## 🔹Business Problems Addressed:
+
+- Analyzed factors affecting vehicle performance and operational efficiency
+- Evaluated driver productivity to identify performance gaps
+- Compared hub-wise performance to understand operational strengths and improvement areas
+- Tracked key operational KPIs to support better business decisions
+
 ## 🗂️ Data Model
 
 The dataset contains the following tables:
@@ -125,6 +132,13 @@ The **Drivers page** provides an individual driver breakdown including:
 Freightliner leads with 153 recorded breakdowns, followed by Mercedes Sprinter (92) and Ford Transit (68).
 
 ---
+## 💡Key Insights Generated:
+
+- Identified high-performing and underperforming hubs based on operational metrics
+-  Compared driver efficiency to understand performance variations
+-  Analyzed vehicle usage patterns to identify optimization opportunities
+-  Highlighted areas where operational improvements can reduce inefficiencies
+-  Enabled data-driven decision-making through interactive visual reports
 
 ## 🛠️ Tools & Technologies
 
